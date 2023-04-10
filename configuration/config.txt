@@ -1,0 +1,5 @@
+freq_touch=500 			           #touch的采样频率 2ms
+freqd_touch=2					   #touch数据的截止频率			
+cycle_time_controller=10           #和controller的通信周期 10ms
+online_trj_flag=1		           #在线轨迹flag
+point_nums=5                       #每次给controller下发的轨迹点数
